@@ -1,7 +1,7 @@
 {
   description = "update-flake-lock";
 
-  inputs.nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
+  inputs.nixpkgs.url = "github:nixos/nixpkgs/nixos-22.05";
 
   outputs =
     { self
